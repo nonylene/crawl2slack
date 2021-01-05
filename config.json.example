@@ -1,0 +1,11 @@
+{
+  "crawls": [
+    {
+      "url": "https://example.com/",
+      "selector": "body",
+      "regex": "exampl?e"
+    }
+  ],
+  "slack_webhook": "https://hooks.slack.com/services/XXXXXXXX",
+  "slack_channel": "#random"
+}
