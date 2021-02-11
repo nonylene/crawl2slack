@@ -1,5 +1,7 @@
 # crawl2slack
 
+[Docker image](https://hub.docker.com/r/nonylene/crawl2slack)
+
 ## Install
 
 ```sh
